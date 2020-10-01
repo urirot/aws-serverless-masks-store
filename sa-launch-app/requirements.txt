@@ -1,0 +1,12 @@
+aws-cdk.aws-lambda
+aws-cdk.aws_s3
+aws-cdk.aws_s3_notifications
+aws-cdk.aws_iam
+aws_cdk.aws_apigateway
+aws-cdk.aws_s3_deployment
+aws-cdk.aws_cloudfront
+aws-cdk.aws_certificatemanager
+aws-cdk.aws_ssm
+aws-cdk.custom_resources
+aws-cdk.aws_dynamodb
+boto3
